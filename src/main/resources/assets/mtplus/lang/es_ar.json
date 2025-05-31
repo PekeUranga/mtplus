@@ -1,11 +1,11 @@
 {
   "itemGroup.missingtexture":"Missing Texture Plus",
-  "block.mtplus.missingtextureblock": "Bloque sin textura",
-  "block.mtplus.missingtexturestairs": "Escaleras sin textura",
-  "block.mtplus.missingtextureslab": "Losa sin textura",
-  "block.mtplus.missingtexturewall": "Pared sin textura",
-  "block.mtplus.invertedtextureblock": "Bloque sin textura invertido",
-  "block.mtplus.invertedtexturestairs": "Escaleras sin textura invertidas",
-  "block.mtplus.invertedtextureslab": "Losa sin textura invertida",
-  "block.mtplus.invertedtexturewall": "Pared sin textura invertida"
+  "items.mtplus.missingtextureblockitem": "Bloque sin textura",
+  "items.mtplus.missingtexturestairsitem": "Escaleras sin textura",
+  "items.mtplus.missingtextureslabitem": "Losa sin textura",
+  "items.mtplus.missingtexturewallitem": "Pared sin textura",
+  "items.mtplus.invertedtextureblockitem": "Bloque sin textura invertido",
+  "items.mtplus.invertedtexturestairsitem": "Escaleras sin textura invertidas",
+  "items.mtplus.invertedtextureslabitem": "Losa sin textura invertida",
+  "items.mtplus.invertedtexturewallitem": "Pared sin textura invertida"
 }

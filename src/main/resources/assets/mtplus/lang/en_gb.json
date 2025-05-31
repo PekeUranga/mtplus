@@ -1,11 +1,11 @@
 {
   "itemGroup.missingtexture":"Missing Texture Plus",
-  "block.mtplus.missingtextureblock": "Missing Texture Block",
-  "block.mtplus.missingtexturestairs": "Missing Texture Stairs",
-  "block.mtplus.missingtextureslab": "Missing Texture Slab",
-  "block.mtplus.missingtexturewall": "Missing Texture Wall",
-  "block.mtplus.invertedtextureblock": "Inverted Missing Texture Block",
-  "block.mtplus.invertedtexturestairs": "Inverted Missing Texture Stairs",
-  "block.mtplus.invertedtextureslab": "Inverted Missing Texture Slab",
-  "block.mtplus.invertedtexturewall": "Inverted Missing Texture Wall"
+  "items.mtplus.missingtextureblockitem": "Missing Texture Block",
+  "items.mtplus.missingtexturestairsitem": "Missing Texture Stairs",
+  "items.mtplus.missingtextureslabitem": "Missing Texture Slab",
+  "items.mtplus.missingtexturewallitem": "Missing Texture Wall",
+  "items.mtplus.invertedtextureblockitem": "Inverted Missing Texture Block",
+  "items.mtplus.invertedtexturestairsitem": "Inverted Missing Texture Stairs",
+  "items.mtplus.invertedtextureslabitem": "Inverted Missing Texture Slab",
+  "items.mtplus.invertedtexturewallitem": "Inverted Missing Texture Wall"
 }
