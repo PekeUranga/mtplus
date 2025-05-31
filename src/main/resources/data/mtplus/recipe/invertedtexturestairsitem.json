@@ -6,12 +6,10 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "mtplus:invertedtextureblockitem"
-    }
+    "#": "mtplus:invertedtextureblockitem"
   },
   "result": {
-    "item": "mtplus:invertedtexturestairsitem",
+    "id": "mtplus:invertedtexturestairsitem",
     "count": 6
   }
 }

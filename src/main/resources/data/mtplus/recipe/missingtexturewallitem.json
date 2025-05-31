@@ -1,15 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
+    "###",
     "###"
   ],
   "key": {
-    "#": {
-      "item": "mtplus:missingtextureblockitem"
-    }
+    "#": "mtplus:missingtextureblockitem"
   },
   "result": {
-    "item": "mtplus:missingtextureslabitem",
+    "id": "mtplus:missingtexturewallitem",
     "count": 6
   }
 }

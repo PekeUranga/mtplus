@@ -6,12 +6,10 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "mtplus:missingtextureblockitem"
-    }
+    "#": "mtplus:missingtextureblockitem"
   },
   "result": {
-    "item": "mtplus:missingtexturestairsitem",
+    "id": "mtplus:missingtexturestairsitem",
     "count": 6
   }
 }
