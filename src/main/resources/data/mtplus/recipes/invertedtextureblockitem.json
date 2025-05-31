@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#M",
+    "M#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:white_concrete"
+    },
+    "M": {
+      "item": "minecraft:lime_concrete"
+    }
+  },
+  "result": {
+    "item": "mtplus:invertedtextureblockitem",
+    "count": 4
+  }
+}

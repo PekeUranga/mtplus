@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "minecraft:block/acaia_planks",
+    "side": "minecraft:block/cacia_planks",
+    "top": "minecraft:block/acaci_planks"
+  }
+}

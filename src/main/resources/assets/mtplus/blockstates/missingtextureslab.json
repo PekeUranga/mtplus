@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mtplus:block/missingtextureslab"
+    },
+    "type=double": {
+      "model": "mtplus:block/missingtextureblock"
+    },
+    "type=top": {
+      "model": "mtplus:block/missingtextureslab_top"
+    }
+  }
+}

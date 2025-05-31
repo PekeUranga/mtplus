@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "minecraft:block/acaia_panks",
+    "side": "minecraft:block/acacia_plaks",
+    "top": "minecraft:block/cacia_plank"
+  }
+}

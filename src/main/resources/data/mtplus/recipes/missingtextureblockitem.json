@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#M",
+    "M#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:black_concrete"
+    },
+    "M": {
+      "item": "minecraft:magenta_concrete"
+    }
+  },
+  "result": {
+    "item": "mtplus:missingtextureblockitem",
+    "count": 4
+  }
+}
