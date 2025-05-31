@@ -1,11 +1,11 @@
 {
   "itemGroup.missingtexture":"Missing Texture Plus",
-  "items.mtplus.missingtextureblockitem": "Illo a ehte bloque le paha algo raro",
-  "items.mtplus.missingtexturestairsitem": "Ehcalerah rara'",
-  "items.mtplus.missingtextureslabitem": "Bardosa morá y negra",
-  "items.mtplus.missingtexturewallitem": "Muro sin tehstura",
-  "items.mtplus.invertedtextureblockitem": "Illo ehte bloque e como el otro pero ar revé",
-  "items.mtplus.invertedtexturestairsitem": "Ehcalerah aún má rara'",
-  "items.mtplus.invertedtextureslabitem": "Bardosa verde y blanca COMO ANDALUSÍA OLEEEEE (o como er beti)",
-  "items.mtplus.invertedtexturewallitem": "Muro sin tehstura 2"
+  "item.mtplus.missingtextureblockitem": "Illo a ehte bloque le paha algo raro",
+  "item.mtplus.missingtexturestairsitem": "Ehcalerah rara'",
+  "item.mtplus.missingtextureslabitem": "Bardosa morá y negra",
+  "item.mtplus.missingtexturewallitem": "Muro sin tehstura",
+  "item.mtplus.invertedtextureblockitem": "Illo ehte bloque e como el otro pero ar revé",
+  "item.mtplus.invertedtexturestairsitem": "Ehcalerah aún má rara'",
+  "item.mtplus.invertedtextureslabitem": "Bardosa verde y blanca COMO ANDALUSÍA OLEEEEE (o como er beti)",
+  "item.mtplus.invertedtexturewallitem": "Muro sin tehstura 2"
 }
