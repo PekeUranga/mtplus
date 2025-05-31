@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "mtplus:block/invertedtexture",
+    "side": "mtplus:block/invertedtexture",
+    "top": "mtplus:block/invertedtexture"
+  }
+}

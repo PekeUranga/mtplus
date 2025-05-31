@@ -1,0 +1,11 @@
+{
+  "itemGroup.missingtexture":"Missing Texture Plus",
+  "block.mtplus.missingtextureblock": "Bloque sin textura",
+  "block.mtplus.missingtexturestairs": "Escaleras sin textura",
+  "block.mtplus.missingtextureslab": "Losa sin textura",
+  "block.mtplus.missingtexturewall": "Pared sin textura",
+  "block.mtplus.invertedtextureblock": "Bloque sin textura invertido",
+  "block.mtplus.invertedtexturestairs": "Escaleras sin textura invertidas",
+  "block.mtplus.invertedtextureslab": "Losa sin textura invertida",
+  "block.mtplus.invertedtexturewall": "Pared sin textura invertida"
+}

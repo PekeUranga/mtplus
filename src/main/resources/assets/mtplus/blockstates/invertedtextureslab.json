@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mtplus:block/invertedtextureslab"
+    },
+    "type=double": {
+      "model": "mtplus:block/invertedtextureblock"
+    },
+    "type=top": {
+      "model": "mtplus:block/invertedtextureslab_top"
+    }
+  }
+}

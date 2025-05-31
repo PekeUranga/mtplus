@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    " ##",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mtplus:invertedtextureblockitem"
+    }
+  },
+  "result": {
+    "item": "mtplus:invertedtexturestairsitem",
+    "count": 6
+  }
+}
