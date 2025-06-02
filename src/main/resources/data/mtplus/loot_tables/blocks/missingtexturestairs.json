@@ -11,11 +11,7 @@
       ],
       "conditions": [
         {
-          "condition": "minecraft:match_tool",
-          "predicate": {
-            "tag": "minecraft:pickaxes",
-            "durability": { "min": 1 }
-          }
+          "condition": "minecraft:match_tool"
         }
       ]
     }
